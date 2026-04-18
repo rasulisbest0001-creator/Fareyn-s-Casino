@@ -1,4 +1,0 @@
-{
-  "$schema": "https://railpack.com/schema.json",
-  "start": "python main.py"
-}
